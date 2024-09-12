@@ -8,6 +8,5 @@ The possible outcomes are:
 - Paper covers rock.
 - If there’s a tie, then the game ends in a draw.
 
----
 ## Credits
 This project was created as part of a learning experience and is inspired by the Codecademy "Learn JavaScript Syntax: Functions" curriculum.
